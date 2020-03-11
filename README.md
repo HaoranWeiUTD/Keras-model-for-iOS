@@ -9,7 +9,7 @@ This prject trained a keras modal and implent this model into an iOS app.
  Tips: iOS app development can only been done on Mac, windows system is not supported.
  
 Citation
-Haoran Wei, M. Laszewski  and Nasser Kehtarnavaz. Deep Learning-Based Person Detection and Classification for Far Field Video Surveillance. The 13th IEEE Dallas Circuits and Systems Conference (DCAS), Dallas, 2018.  
+Haoran Wei, Abhishek Sehgal and Nasser Kehtarnavaz . A Deep Learning-Based Smartphone App for Real-Time Detection of Retinal Abnormalities in Fundus Images. SPIE conference of Real-Time Image Processing and Deep Learning, Baltimore, 2019. 
 
 一个基于keras深度学习模型的iOS APP，用于眼底糖尿病检测
 项目需要如下三步操作：
@@ -18,4 +18,4 @@ Haoran Wei, M. Laszewski  and Nasser Kehtarnavaz. Deep Learning-Based Person Det
 3.将.mlmodel模型用在iOS app（用swift实现，在x-code中编写代码，使用Mac机器）。注意：iSO开发只能用Mac，不能用window系统。
 
 详情及引用请参考：
-Haoran Wei, M. Laszewski  and Nasser Kehtarnavaz. Deep Learning-Based Person Detection and Classification for Far Field Video Surveillance. The 13th IEEE Dallas Circuits and Systems Conference (DCAS), Dallas, 2018.  
+Haoran Wei, Abhishek Sehgal and Nasser Kehtarnavaz . A Deep Learning-Based Smartphone App for Real-Time Detection of Retinal Abnormalities in Fundus Images. SPIE conference of Real-Time Image Processing and Deep Learning, Baltimore, 2019.  
